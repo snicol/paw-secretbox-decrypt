@@ -1,5 +1,3 @@
-// var Buffer = require('buffer/').Buffer
-
 const nacl = require('tweetnacl');
 const naclutil = require('tweetnacl-util');
 
